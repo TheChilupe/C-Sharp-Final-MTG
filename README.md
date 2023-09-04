@@ -10,13 +10,14 @@ To solve this, I would like to build a section of their website for them that al
 As the list is populated, a running total of Market Value for the entire list would be pulled from the Scryfall.io API. We would then adapt the trade-in value of (cash) 50% or (store-credit) 65%. If the customer is okay with the terms, we would click a button to confirm the trade-in. This action would then push the obtained cards into the database, updating it in real-time, solving the issue of a not-up-to-date stock information for customers.
 
 Features required:
-API Consumption
-ASP.NET MVC
-ASP.Net Core
-ASP.NET Entity Framework
-Database Queries / Updates
-C#
-Html
-CSS
-Javascript
+- API Consumption
+- ASP.NET MVC
+- ASP.Net Core
+- ASP.NET Entity Framework
+- Database Queries / Updates
+- C#
+- Html
+- CSS
+- Javascript
+
 We can also turn this into an SAAS to market to other locations.
